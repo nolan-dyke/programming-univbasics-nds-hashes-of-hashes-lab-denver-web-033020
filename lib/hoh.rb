@@ -48,7 +48,7 @@ hash_of_hash = {:label => "Kingdom",
       :sub_category => {:label => "Family",
         :sub_category => {:label => "Genus",
           :sub_category => {:label => "Species",
-          :sub_category => {}
+          :sub_category => nil
         }
       }
     }
