@@ -54,5 +54,5 @@ hash_of_hash = {:label => "Kingdom",
     }
   }
 }
-}
+}}
 end
